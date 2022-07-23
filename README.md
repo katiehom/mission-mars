@@ -1,8 +1,3 @@
-# mission-mars
-![missionMars](https://user-images.githubusercontent.com/52755177/180624037-5bc3db14-096c-49bb-bc35-8c0ba09952c3.gif)
-
-<img width="1546" alt="Screen Shot 2022-05-09 at 9 04 36 AM" src="https://user-images.githubusercontent.com/52755177/167439359-0ea77720-28f4-4699-846a-9d926204c6a6.png">
-
 # MISSION: MARS
 Select a date to check out photos from NASA's Curiosity Rover on Mars! 
 
