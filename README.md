@@ -8,7 +8,7 @@ Select a date to check out photos from NASA's Curiosity Rover on Mars!
 </p>
 
 <p align="center">
-  <a href="https://github.com/katiehom/ben-folds-api" target="_blank">
+  <a href="https://github.com/katiehom/mission-mars" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=1f1591&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://mission-mars-rover.netlify.app/" target="_blank">
