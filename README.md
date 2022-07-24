@@ -2,7 +2,7 @@
 Select a date to check out photos from NASA's Curiosity Rover on Mars! 
 
 <p align="center">
-  <a href="https://ben-folds-api.netlify.app/" target="_blank">
+  <a href="https://mission-mars-rover.netlify.app/" target="_blank">
     <img src="https://user-images.githubusercontent.com/52755177/180624037-5bc3db14-096c-49bb-bc35-8c0ba09952c3.gif" alt="Mission Mars"/>
   </a>
 </p>
